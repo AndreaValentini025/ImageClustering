@@ -1,4 +1,5 @@
-This Computer Vision project proposes an algorithm
+# Image Clustering and Retrieval in Large Photo Collection
+*This Computer Vision project proposes an algorithm
 that aims to detect all the faces in a collection of photos in
 order to cluster them by identities and organize them into
 dif erent folders. Given a photo, the algorithm will also
@@ -9,10 +10,11 @@ application provides the capability to search within the
 collection of images for the one that most closely matches
 a user-provided input string. Finally, the application
 labels the images based solely on their background and
-returns the top 5 most significant clusters.
-## [READ THE PAPER](https://github.com/AndreaValentini025/ImageClustering/blob/main/Image%20Clustering%20and%20Retrieval%20in%20Large%20Photo%20Collection.pdf)
+returns the top 5 most significant clusters.*
 
-It is necessary to install the following packages:
+**[READ THE PAPER HERE](https://github.com/AndreaValentini025/ImageClustering/blob/main/Image%20Clustering%20and%20Retrieval%20in%20Large%20Photo%20Collection.pdf)**
+
+**It is necessary to install the following packages:**
 
 pip install git+https://github.com/openai/CLIP.git
 pip install torch
