@@ -1,3 +1,17 @@
+This Computer Vision project proposes an algorithm
+that aims to detect all the faces in a collection of photos in
+order to cluster them by identities and organize them into
+dif erent folders. Given a photo, the algorithm will also
+recognize the faces in it and search them in the file
+system’s images, displaying only the images that contain
+the recognized faces of the given one. Moreover, the
+application provides the capability to search within the
+collection of images for the one that most closely matches
+a user-provided input string. Finally, the application
+labels the images based solely on their background and
+returns the top 5 most significant clusters.
+
+
 It is necessary to install the following packages:
 
 pip install git+https://github.com/openai/CLIP.git
