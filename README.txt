@@ -10,7 +10,7 @@ collection of images for the one that most closely matches
 a user-provided input string. Finally, the application
 labels the images based solely on their background and
 returns the top 5 most significant clusters.
-
+[**READ THE PAPER**](https://github.com/AndreaValentini025/ImageClustering/blob/main/Image%20Clustering%20and%20Retrieval%20in%20Large%20Photo%20Collection.pdf)
 
 It is necessary to install the following packages:
 
