@@ -10,7 +10,7 @@ collection of images for the one that most closely matches
 a user-provided input string. Finally, the application
 labels the images based solely on their background and
 returns the top 5 most significant clusters.
-**[READ THE PAPER](https://github.com/AndreaValentini025/ImageClustering/blob/main/Image%20Clustering%20and%20Retrieval%20in%20Large%20Photo%20Collection.pdf)**
+## [READ THE PAPER](https://github.com/AndreaValentini025/ImageClustering/blob/main/Image%20Clustering%20and%20Retrieval%20in%20Large%20Photo%20Collection.pdf)
 
 It is necessary to install the following packages:
 
@@ -27,7 +27,7 @@ pip install dlib
 pip install scipy
 
 pip install rembg
-# for gpu support use pip install rembg[gpu]
+for gpu support use pip install rembg[gpu]
 
 
 The Face Detection and Alignment function is implemented in each file using user images, that MUST be stored into the 'photos' folder.
